@@ -121,14 +121,6 @@ chmod +x test_api.sh
 ./test_api.sh
 ```
 
-### Local Generation Testing
-
-Test the story generation locally:
-
-```bash
-python test_local_generation.py
-```
-
 ## 📝 API Endpoints
 
 - `POST /api/register` - User registration
